@@ -1,0 +1,32 @@
+/* .nav-link{
+    color: blue !important;
+} */
+.section-1{
+    background-color: black !important;
+    height: 100vh;
+}
+.box1{
+    height: inherit;
+    text-align: center !important;
+   
+}
+.one{
+    height: 300px;
+    background-color: plum;
+}
+.two{
+    height: 300px;
+    background-color: purple;
+}
+.three{
+    height: 300px;
+    background-color: palevioletred;
+}
+.four{
+    height: 150px;
+    background-color: blanchedalmond;
+}
+.five{
+    height: 150px;
+    background-color: rgb(150, 119, 72);
+}
